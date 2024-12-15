@@ -3,7 +3,7 @@ const projectsData = [
     title: 'GitHub Profile',
     description: `My GitHub profile with all the projects I've worked on.`,
     imgSrc: '/static/images/projects/circuit-board.svg',
-    href: 'https://github.com/roperscrossroads',
+    href: 'https://github.com/pixelated-ducky',
   },
 ]
 

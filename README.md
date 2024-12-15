@@ -1,6 +1,6 @@
-[![Run Tests](https://github.com/roperscrossroads/devblog/actions/workflows/test.yml/badge.svg)](https://github.com/roperscrossroads/devblog/actions/workflows/test.yml) [![CodeQL](https://github.com/roperscrossroads/devblog/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/roperscrossroads/devblog/actions/workflows/github-code-scanning/codeql) [![Dependabot Updates](https://github.com/roperscrossroads/devblog/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/roperscrossroads/devblog/actions/workflows/dependabot/dependabot-updates)
+[![Run Tests](https://github.com/pixelated-ducky/blogtemplate/actions/workflows/test.yml/badge.svg)](https://github.com/pixelated-ducky/blogtemplate/actions/workflows/test.yml) [![CodeQL](https://github.com/pixelated-ducky/blogtemplate/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/pixelated-ducky/blogtemplate/actions/workflows/github-code-scanning/codeql) [![Dependabot Updates](https://github.com/pixelated-ducky/blogtemplate/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/pixelated-ducky/blogtemplate/actions/workflows/dependabot/dependabot-updates)
 
-Dev blog source code
+Duck Blog source code
 
 - Starter: [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 
